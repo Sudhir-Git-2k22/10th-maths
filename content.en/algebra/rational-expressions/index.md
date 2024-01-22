@@ -28,8 +28,6 @@ To reduce a rational expression to its lowest form, follow the given steps
 
 2. \\(\frac{x^2-16}{x^2+8x+16}\\) 
 
-![Alt text](image-1.png)
-
 **Solution** 
 1. \\(\frac{x-3}{x^2-9}\\) =\\(\frac{x-3}{(x+3)(x-3)}\\) =\\(\frac{1}{x+3}\\) 
 
@@ -62,7 +60,6 @@ The expression \\(\frac{7p+2}{8p^2+13p+5}\\) is undefined when \\(8p^2+13p+5=0\\
 Here \\( x^2 \ge 0 \\) for all x. Therefore, \\( x^2+1 \ge 0+1=1 \\). . Hence,\\( x^2+1 ≠ 0\\) for any x.
 Therefore, there can be no real excluded values for the given rational expression \\(\frac{x}{x^2+1}\\) 
 
-![Alt text](image.png)
 
 **Exercise 3.4**
 1. Reduce each of the following rational expressions to its lowest form.

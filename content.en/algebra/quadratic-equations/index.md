@@ -42,7 +42,6 @@ That is, \\( x^2+(2x) (\frac{b}{2a})^2 + (\frac{b}{2a})^2 =\frac{b^2}{4a^2}-\fra
 
 Therefore, the roots are \\({-b + \sqrt{b^2-4ac} \over 2a} \\) and \\(  {-b - \sqrt{b^2-4ac} \over 2a} \\)
 
-![Alt text](image.png)
 
 
 ## Formation of a Quadratic Equation

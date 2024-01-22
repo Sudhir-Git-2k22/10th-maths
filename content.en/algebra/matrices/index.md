@@ -1678,8 +1678,6 @@ Show that \\( A^2-5A+7I_2=0 \\)
 
 ![Alt text](image-18.png)
 
-![Alt text](image-19.png)
-
 **Multiple choice questions**
 1. A system of three linear equations in three variables is inconsistent if their planes
 
